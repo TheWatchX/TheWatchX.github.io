@@ -1,0 +1,20 @@
+.page-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.page-text {
+  color: rgb(0, 0, 0);
+  height: 322px;
+  font-size: 18em;
+  text-align: center;
+}
+.page-text04 {
+  color: rgb(0, 0, 0);
+  font-size: 48px;
+  text-align: center;
+}
